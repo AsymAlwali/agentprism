@@ -1,0 +1,9 @@
+{
+  "name": "@agentprism/cli",
+  "version": "0.0.1",
+  "type": "module",
+  "bin": { "agentprism": "./dist/index.js" },
+  "scripts": { "build": "tsc" },
+  "dependencies": { "@agentprism/core": "0.0.1" },
+  "license": "Apache-2.0"
+}
